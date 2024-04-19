@@ -1,4 +1,4 @@
-# HoloGest
+# HoloGest: Decoupled Diffusion and Motion Prior for Holistic Co-Speech Gesture Generation
 
 [Project website](https://hologest.github.io)
 
